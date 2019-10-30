@@ -1,2 +1,1 @@
-# vue2
-for practice of the imooc
+# resturcture axios with typescript
